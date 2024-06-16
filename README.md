@@ -21,8 +21,8 @@ This project uses OpenCV and MediaPipe to recognize hand gestures for controllin
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/hand-gesture-controlled-scrolling.git
-   cd hand-gesture-controlled-scrolling
+   git clone https://github.com/AnubhavChaturvedi-GitHub/Hand-Gesture-Scroll-System.git
+   cd Hand-Gesture-Scroll-System
    ```
 
 2. Install the required Python packages:
