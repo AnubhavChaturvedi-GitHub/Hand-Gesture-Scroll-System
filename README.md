@@ -36,7 +36,7 @@ This project uses OpenCV and MediaPipe to recognize hand gestures for controllin
 1. Run the script:
 
    ```sh
-   python hand_gesture_scrolling.py
+   python Hand-Gesture-Scroll-System.py
    ```
 
 2. The script will open a window showing the webcam feed. Use the following gestures to control the scrolling:
